@@ -1,0 +1,6 @@
+framework module Pods_NetworkAssignment {
+  umbrella header "Pods-NetworkAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
